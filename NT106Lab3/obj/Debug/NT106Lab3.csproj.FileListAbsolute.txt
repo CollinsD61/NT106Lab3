@@ -1,0 +1,13 @@
+D:\Workspace\C#\NT106Lab3\NT106Lab3\bin\Debug\NT106Lab3.exe.config
+D:\Workspace\C#\NT106Lab3\NT106Lab3\bin\Debug\NT106Lab3.exe
+D:\Workspace\C#\NT106Lab3\NT106Lab3\bin\Debug\NT106Lab3.pdb
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.csproj.AssemblyReference.cache
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.Main.resources
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.Properties.Resources.resources
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.csproj.GenerateResource.cache
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.exe
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.pdb
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.B3.resources
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.B3_Server.resources
+D:\Workspace\C#\NT106Lab3\NT106Lab3\obj\Debug\NT106Lab3.B2.resources
